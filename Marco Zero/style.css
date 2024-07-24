@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+.content {
+    padding: 2em;
+}
+.content img {
+    max-width: 100%;
+    height: auto;
+}
+.highlight {
+    color: #ff6347;
+    font-weight: bold;
+}
